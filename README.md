@@ -22,6 +22,8 @@
 
 ### CIDR Tree
 
+![tree](https://user-images.githubusercontent.com/62832487/143685708-6f075d3c-5020-4aa1-ae32-b286a1947546.jpg)
+
 ## Penderitaan
 - Susah mas materinya
 - Routing bingungin
